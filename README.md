@@ -2,7 +2,7 @@ How to help you guys!!!
 
 need to fix this
 
-
+--Fork this repo due to merge
 
 Insight:
 
@@ -25,4 +25,6 @@ Movement
 
 
 copy-write notice
+
+
 
