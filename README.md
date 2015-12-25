@@ -28,5 +28,10 @@ Movement
 500: local minore change to readme file
 copy-write notice
 
+<<<<<<< Updated upstream
 > Emregy fix after statsh
+=======
+>>>>>Like this course if you need theis to be done
+
+>>>>>>> Stashed changes
 Stashing the chantesss working on tha
