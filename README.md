@@ -1,5 +1,7 @@
 How to help you guys!!!
 
+ADding the line for Rebasing example
+
 need to fix this
 
 --Fork this repo due to merge
