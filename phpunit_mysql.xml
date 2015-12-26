@@ -12,9 +12,15 @@
             <directory>./Tests/</directory>
         </testsuite>
     </testsuites>
+<<<<<<< HEAD
 		<! Cherry Pick example on MASTER --> 
 
+=======
+	<! this is for cherry picked
+>>>>>>> ecd4a46... cherry pick tag add on phpunit_mysql
 
+
+	-->
     <filter>
         <whitelist>
             <directory>./</directory>
