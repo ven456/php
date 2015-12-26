@@ -12,6 +12,8 @@
             <directory>./Tests/</directory>
         </testsuite>
     </testsuites>
+		<! Cherry Pick example on MASTER --> 
+
 
     <filter>
         <whitelist>
